@@ -1,0 +1,11 @@
+numpy
+opensmile
+pandas
+rich
+sklearn
+joblib
+matplotlib
+torch
+scipy
+transformers
+sidekit
